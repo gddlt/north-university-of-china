@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Version=1.1
+Name=Eclipse IDE for Embedded C/C++ Developers - 2020-12
+Exec=env GTK_IM_MODULE=ibus /home/mdp/eclipse/embedcpp-2020-12/eclipse/eclipse
+Categories=Development;IDE;
+Icon=/home/mdp/eclipse/embedcpp-2020-12/eclipse/icon.xpm
